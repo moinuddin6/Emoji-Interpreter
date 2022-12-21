@@ -10,7 +10,8 @@ var emojiDictionary = {
   "🐴": "Horse",
   "🍎": "Apple",
   "🍇": "Grapes",
-  "😑": "annoyance"
+  "😑": "annoyance",
+  "⚽": "Football",
 };
 
 var emojiWeKnow = Object.keys(emojiDictionary);
